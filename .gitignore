@@ -1,14 +1,4 @@
 .vs/
 Debug/
 Release/
-*.user
-*.suo
-*.workspace
-*.o
-*.d
-*.hex
-*.elf
-*.eep
-*.map
-*.lss
 *.bat
